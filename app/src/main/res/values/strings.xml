@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Aumustbuy</string>
+    <string name="feature2_name">Feature2</string>
+    <string name="text_null">Null</string>
+    <string name="feature1_name">Weather</string>
+    <string name="feature1_title1">Average Temperature</string>
+    <string name="feature1_title2">Highest Temperature</string>
+    <string name="feature1_title3">Lowest Temperature</string>
+    <string name="feature1_title4">Humidity</string>
+    <string name="feature4_name">Feature4</string>
+    <string name="feature3_name">Feature3</string>
+
+    <string name="open_weather_Api_Key">aa6f38c8aca83c737d27773ebf7c2ec0</string>
 </resources>
